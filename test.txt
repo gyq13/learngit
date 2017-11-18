@@ -2,5 +2,7 @@
 change 1
 change 2
 change 3
-creating a new branch is quick & simple
+creating a new branch is quick and simple
+change in local and origin
 change in feature1
+
